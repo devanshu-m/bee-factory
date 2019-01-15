@@ -36,6 +36,14 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 #pg
 gem 'pg', '~> 0.15'
+#bootstrap
+gem 'bootstrap'
+#jquery
+gem 'jquery-easing-rails'
+#font-awesome
+gem 'font-awesome-rails'
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
